@@ -1,0 +1,6 @@
+Dump Runescape cache from server
+Extract desired models and item definitions from cache
+Implement into server
+
+Clean up source code
+Remove unwanted aspect; messages, features, etc...
